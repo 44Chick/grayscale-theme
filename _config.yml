@@ -1,8 +1,9 @@
 # Site settings
-title: Grayscale
-email: your-email@domain.com
+title: 자기소개
+email: to44guchi@gmail.com
 url: https://44chick.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: 실험으로 만든 사이트 입니다.
+  "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -17,7 +18,7 @@ social:
   - title: twitter
     url: https://twitter.com/SBootstrap
   - title: facebook
-    url:
+    url: 
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
   - title: bitbucket
